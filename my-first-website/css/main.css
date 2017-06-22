@@ -1,1 +1,108 @@
+#top-nav{
+    width: 100%;
+    height: 65px;
+    background: black; 
+}
+
+#top-nav p{
+    color: royalblue;
+    font-size: 1.5em;
+    
+}
+
+#top-nav span{
+    color: red;
+   
+}
+
+#top-nav p, #top-nav nav{
+    line-height: 65px;
+}
+
+#top-nav nav a{
+    color: white;
+    font-size: 1.25em;
+    transition: linear .5s;
+    padding-right: 8px;
+    
+}
+
+#top-nav nav a:hover{
+    text-decoration: none;
+    color: red;
+}
+
+#site-title{
+    text-align: center;
+    background: #e6e6e6;
+    padding: 25px 0px;
+    margin-top: 0px;
+}
+
+#three-images{
+    margin: 40px 0px 50px 0px;
+}
+
+#three-images img{
+    width:100%;
+    border: 3px solid #ccc;
+    box-shadow: 2px 8px 20px #343434;
+    
+}
+
+#three-images h4{
+    color: red;
+}
+
+#para-one{
+    text-align: justify;
+    color: saddlebrown;
+}
+
+#para-two{
+    text-align: center;
+    color: coral;
+}
+
+#para-three{
+    text-align: right;
+    color: goldenrod;   
+}
+
+#three-images button{
+    float: right;
+}
+
+form{
+    text-align: center;
+}
+
+hr{
+    width: 75%;
+    border-top: 3px dotted #aaa;
+}
+
+#disclaimer{
+    text-align: center;
+}
+
+#light-grey{
+    width: 100%;
+    background-color: lightgray;
+}
+
+iframe{
+    margin-top: 50px;
+    border: 3px solid #ccc;
+    box-shadow: 2px 8px 20px #343434;
+    
+}
+
+footer p{
+    line-height: 50px;
+    margin: 0px;
+    color: black;
+    text-align: center;
+}
+
 
